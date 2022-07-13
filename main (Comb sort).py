@@ -18,3 +18,4 @@ while step_factor > 1:
               arr[i], arr[j] = arr[j], arr[i]
     step_factor = step_factor/factor
 print(arr)
+input('Press Enter to end \n')
